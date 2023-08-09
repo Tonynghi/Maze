@@ -4,7 +4,8 @@ import { Physics } from '@react-three/rapier';
 import { useControls } from 'leva';
 
 import Ground from './ground';
-import Lights from './lights';
+import Scene from './scene';
+
 // import { Player } from './player';
 // import Stuff from './stuff';
 
@@ -22,7 +23,7 @@ const ThreeApp = () => {
     >
       <OrbitControls />
       <Sky />
-      <Lights />
+      <Scene />
       <Physics gravity={[0, -26, 0]} colliders={false}>
         {/* <Stuff /> */}
         {ground && <Ground />}
