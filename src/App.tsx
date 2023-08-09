@@ -1,5 +1,11 @@
+import ThreeApp from './pages/three-app';
+
 const App = () => {
-  return <div className='relative h-full w-full'>hello</div>;
+  return (
+    <div className='relative h-screen w-screen'>
+      <ThreeApp />
+    </div>
+  );
 };
 
 export default App;
