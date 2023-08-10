@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dungeon floor
+* source:	https://sketchfab.com/3d-models/dungeon-floor-041d7d006dac4708b78a9a676da6d0c4
+* author:	BillyRayJean (https://sketchfab.com/BillyGreen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dungeon floor" (https://sketchfab.com/3d-models/dungeon-floor-041d7d006dac4708b78a9a676da6d0c4) by BillyRayJean (https://sketchfab.com/BillyGreen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

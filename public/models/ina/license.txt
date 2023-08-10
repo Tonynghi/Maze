@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hololive - Ninomae Ina'nis (REUPLOAD)
+* source:	https://sketchfab.com/3d-models/hololive-ninomae-inanis-reupload-95911512692d4998ac103abf3d414b60
+* author:	R4ven (https://sketchfab.com/R4ven3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hololive - Ninomae Ina'nis (REUPLOAD)" (https://sketchfab.com/3d-models/hololive-ninomae-inanis-reupload-95911512692d4998ac103abf3d414b60) by R4ven (https://sketchfab.com/R4ven3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

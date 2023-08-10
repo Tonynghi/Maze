@@ -1,0 +1,11 @@
+Model Information:
+* title:	bocchi the rock
+* source:	https://sketchfab.com/3d-models/bocchi-the-rock-634c4da47a5a445da5cb0e45774b9fa1
+* author:	copycatypo (https://sketchfab.com/copycatypo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bocchi the rock" (https://sketchfab.com/3d-models/bocchi-the-rock-634c4da47a5a445da5cb0e45774b9fa1) by copycatypo (https://sketchfab.com/copycatypo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

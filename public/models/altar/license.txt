@@ -1,0 +1,11 @@
+Model Information:
+* title:	altar
+* source:	https://sketchfab.com/3d-models/altar-b8a21f20087849a89399a7db6596a25b
+* author:	SaltySpook (https://sketchfab.com/SaltySpook)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "altar" (https://sketchfab.com/3d-models/altar-b8a21f20087849a89399a7db6596a25b) by SaltySpook (https://sketchfab.com/SaltySpook) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
